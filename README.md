@@ -12,4 +12,12 @@ FUSM
 
 - MASTER
 
-Esto es nuevarama
+Esto es nuevarama.
+
+* Carlos
+* Mario
+* Araujo
+* Niño
+
+- 24 Años
+- iOS & Android Developer
